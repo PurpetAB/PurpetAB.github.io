@@ -81,6 +81,7 @@ p {
 .container {
     margin: auto;
     margin-top: 8px;
+    margin-bottom: 24px;
 }
 
 .container h3 {

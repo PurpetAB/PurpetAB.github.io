@@ -6,7 +6,6 @@ html {
 }
 
 body {
-    margin-top:0;
     font-family: Overpass;
     margin: 0;
     height: 100%;
@@ -80,7 +79,7 @@ p {
 
 .container {
     margin: auto;
-    margin-top: 8px;
+    margin-top: 0px;
     margin-bottom: 24px;
 }
 

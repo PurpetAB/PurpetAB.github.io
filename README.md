@@ -1,2 +1,2 @@
 # PurpetAB.github.io
-https://purpetab.github.io/index.html
+https://purpetab.github.io

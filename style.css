@@ -179,11 +179,11 @@ p {
 .cards-foot {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 16px;
+    grid-gap: 10px;
     margin-bottom: 24px;
     margin-left: 20px;
-    mrgin-right: 20px;
-    margin-top: 75px;
+    margin-right: 20px;
+    margin-top: 20px;
 }
 
 .card-grey {

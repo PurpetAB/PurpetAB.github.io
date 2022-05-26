@@ -25,7 +25,7 @@ p {
 
 .banner {
   background-image: url("images/istockphoto-850926774-640x640.jpg");
-  background-color: rgba(50,60,74,1);
+  /*background-color: rgba(50,60,74,1);*/
   background-size: cover;
   background-position: center;
   padding: 5px 0;

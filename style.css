@@ -1,7 +1,9 @@
 /* Write some CSS below */
 /* style.css */
 html {
-    display: block;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     height: 100vh;
 }
 
